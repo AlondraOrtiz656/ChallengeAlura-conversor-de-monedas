@@ -17,7 +17,7 @@ public class Main {
         double brl = tasas.get("BRL").getAsDouble();
         double cop = tasas.get("COP").getAsDouble();
         double usd = tasas.get("USD").getAsDouble();
-        double dop = tasas.get("DOP").getAsDouble(); // Peso dominicano
+        double dop = tasas.get("DOP").getAsDouble(); // Peso dominicano, mi país
 
         while (opcion != 9) {
 
